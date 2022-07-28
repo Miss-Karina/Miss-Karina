@@ -3,7 +3,9 @@
 <!--
 **Miss-Karina/Miss-Karina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Bio_Karina_GitHub](https://user-images.githubusercontent.com/75813431/181640096-6c67772a-30a4-401b-8372-2ac3877c6cd3.jpg)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
