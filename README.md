@@ -1,9 +1,10 @@
-### Hi there 👋
+Hello! I'm Karina 👩🏻‍💻
 
 <!--
 **Miss-Karina/Miss-Karina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Bio_Karina_GitHub](https://user-images.githubusercontent.com/75813431/181640096-6c67772a-30a4-401b-8372-2ac3877c6cd3.jpg)
+![Bio_Karina_GitHub](https://user-images.githubusercontent.com/75813431/181641232-543a7358-bc16-49bb-8d9c-1283fadc9940.jpg)
+
 
 
 
