@@ -1,13 +1,8 @@
-Hello! I'm Karina 👩🏻‍💻
+# Hello! I'm Karina 👩🏻‍💻
 
-<!--
 **Miss-Karina/Miss-Karina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Bio_Karina_GitHub](https://user-images.githubusercontent.com/75813431/181641232-543a7358-bc16-49bb-8d9c-1283fadc9940.jpg)
-
-
-
-
+![Bio_Karina_GitHub]("img/Diagram 2.jpeg")
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,4 +11,3 @@ Hello! I'm Karina 👩🏻‍💻
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
